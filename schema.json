@@ -1,0 +1,21 @@
+{
+    "users": {
+
+      "user_id_1": {
+        "search_criteria": {...},
+
+        "applications": {
+
+          "job_id_123": {
+            "status": "submitted",
+            "timestamp": "2024-12-22T10:00:00Z"
+          }
+
+        },
+        
+        "content_posts": [...]
+      }
+
+    }
+}
+  
